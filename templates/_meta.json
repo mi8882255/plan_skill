@@ -1,0 +1,7 @@
+{
+  "slug": "<idea-slug>",
+  "title": "<human readable idea title>",
+  "created": "<YYYY-MM-DD>",
+  "root": "00-root",
+  "last_touched": "<YYYY-MM-DD>"
+}
